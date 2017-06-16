@@ -1,0 +1,36 @@
+{
+	"fname": "Xavier",
+	"lname": "Finch",
+	"artform": "Graphic Designer",
+	"geometry": {"type": "point", "coordinates":[-80, 25.791]}
+}
+{
+	"fname": "Danny",
+	"lname": "Guld",
+	"artform": "UX Designer",
+	"geometry": {"type": "point", "coordinates":[-81, 25.391]}
+}
+{
+	"fname": "Brad",
+	"lname": "Smith",
+	"artform": "Photographer",
+	"geometry" : {"type":"point", "coordinates" : [-80, 25791]}
+}
+{
+	"fname": "Jason",
+	"lname": "Gipson",
+	"artform": "Web Weaver",
+	"geometry": {"type": "point", "coordinates":[-80, 25.791]}
+}
+{
+	"fname": "Randy",
+	"lname": "Yesler",
+	"artform": "Illustrator",
+	"geometry": {"type": "point", "coordinates":[-80, 25.791]}
+}
+{
+	"fname": "Brooke",
+	"lname": "Williams",
+	"artform": "Photographer",
+	"geometry": {"type": "point", "coordinates":[-81, 25.702]}
+}
